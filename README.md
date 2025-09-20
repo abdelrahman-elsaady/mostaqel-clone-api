@@ -1,8 +1,6 @@
 # Mostaqel Backend API
 
-[![CI/CD Pipeline](https://github.com/your-username/mostaqel-backend/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/your-username/mostaqel-backend/actions)
-[![Coverage Status](https://codecov.io/gh/your-username/mostaqel-backend/branch/main/graph/badge.svg)](https://codecov.io/gh/your-username/mostaqel-backend)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://deepwiki.com/abdelrahman-elsaady/mostaqelCloneBackEnd"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
 A robust, production-ready backend API for a freelancing platform built with Node.js, Express, and MongoDB. This API provides comprehensive functionality for managing users, projects, payments, and real-time communication.
 
